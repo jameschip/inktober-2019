@@ -25,3 +25,9 @@ The sea ice didn't stay frozzen as long as we thought it would.
 
 ![Day 4](day-4.jpg)
 
+## Day 5 (Build)
+
+Somewhere in the mountains a wizard has built himself a tower.
+
+![Day 5](day-5.jpg)
+
