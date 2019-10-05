@@ -21,7 +21,7 @@ It seemed like a new bakery had opened in the woods.
 
 ## Day 4 (Frozen)
 
-The sea ice didn't stay frozzen as long as we thought it would.
+The sea ice didn't stay frozen as long as we thought it would.
 
 ![Day 4](day-4.jpg)
 
