@@ -31,3 +31,9 @@ Somewhere in the mountains a wizard has built himself a tower.
 
 ![Day 5](day-5.jpg)
 
+## Day 6 (Husky)
+
+Woof!
+
+![Day 6](day-6.jpg)
+
