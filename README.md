@@ -37,3 +37,8 @@ Woof!
 
 ![Day 6](day-6.jpg)
 
+## Day 7 (Enchanted)
+
+The city or Sparrow Pit took to the clouds to avoid war. Unfortunatley the wizards that put it there couldnt work out how to get it down before the clean water and food ran out.
+
+![Day 7](day-7.jpg)
