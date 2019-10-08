@@ -42,3 +42,11 @@ Woof!
 The city or Sparrow Pit took to the clouds to avoid war. Unfortunatley the wizards that put it there couldnt work out how to get it down before the clean water and food ran out.
 
 ![Day 7](day-7.jpg)
+
+## Day 8 (Frail)
+
+Woof!
+
+![Day 8](day-8.jpg)
+
+
