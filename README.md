@@ -53,7 +53,7 @@ Nothing had grown in years but slowly the first tentative steps of life returned
 
 The wizards favorite thinking tree had to be cut down, but they could not bear to lose their favorite swing too. It still hangs there today.
 
-![Day 9](dat-9.jpg)
+![Day 9](day-9.jpg)
 
 
 
