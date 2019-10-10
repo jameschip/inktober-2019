@@ -55,5 +55,15 @@ The wizards favorite thinking tree had to be cut down, but they could not bear t
 
 ![Day 9](day-9.jpg)
 
+## Day 10 (Pattern)
+
+Sometimes they just sat watching the shape of the reflections in the water of the lake.
+
+![Day 10](day-10.jpg)
+
+
+
+
+
 
 
