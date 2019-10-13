@@ -62,15 +62,22 @@ Sometimes they just sat watching the shape of the reflections in the water of th
 ![Day 10](day-10.jpg)
 
 
-# Day 11 (Snow)
+## Day 11 (Snow)
 
 In the winter we used to bw able to walk across the snow on the frozen lake.
 
 ![Day 11](day-11.jpg)
 
+Day 12 (Dragon)
 
+The locals say that a dragon lives beneath the mountain.
 
+![Day 12](day-12.jpg)
 
+Day 13 (Ash)
 
+We sat and watched the fire die down to just ashes.
+
+![Day 13](day-13.jpg)
 
 
