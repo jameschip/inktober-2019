@@ -81,3 +81,11 @@ We sat and watched the fire die down to just ashes.
 ![Day 13](day-13.jpg)
 
 
+Day 14 (Overgrown)
+
+The towers of the okld empire were left to crumble.
+
+![Day 14](day-14.jpg)
+
+
+
