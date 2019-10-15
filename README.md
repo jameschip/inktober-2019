@@ -87,5 +87,11 @@ The towers of the okld empire were left to crumble.
 
 ![Day 14](day-14.jpg)
 
+Day 15 (Legend)
+
+Legend has it that the fairy king cast his sword into a toadstool deep in the woods after the magic wars.
+
+![Day 15](day-15.jpg)
+
 
 
