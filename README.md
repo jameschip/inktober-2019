@@ -93,5 +93,11 @@ Legend has it that the fairy king cast his sword into a toadstool deep in the wo
 
 ![Day 15](day-15.jpg)
 
+Day 16 (Wild)
+
+The Dref are tiny creatures made of total darkness that live deepp in the forest.
+
+![Day 16](day-16.jpg)
+
 
 
