@@ -99,5 +99,11 @@ The Dref are tiny creatures made of total darkness that live deepp in the forest
 
 ![Day 16](day-16.jpg)
 
+Day 17 (Ornament)
+
+The wizard had had enough of two waring kings so shrank them and their castles down and sealed them in a bell jar to war alone. There has been peace ever since.
+
+![Day 17](day-17.jpg)
+
 
 
