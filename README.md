@@ -105,5 +105,17 @@ The wizard had had enough of two waring kings so shrank them and their castles d
 
 ![Day 17](day-17.jpg)
 
+Day 18 (Misfit)
+
+Dorrit had never felt he belonged so they took to the sky in a boat of their own design
+
+![Day 18](day-18.jpg)
+
+Day 19 (Sling)
+
+At night Dorrit would sleep in a hammock that they could sling over the side.
+
+![Day 19](day-19.jpg)
+
 
 
