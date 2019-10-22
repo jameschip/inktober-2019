@@ -117,5 +117,26 @@ At night Dorrit would sleep in a hammock that they could sling over the side.
 
 ![Day 19](day-19.jpg)
 
+Day 20 (Tread)
+
+While out in the forest it is important to not tread on the home of the forest keeper.
+
+![Day 20](day-20.jpg)
+
+Day 21 (Treasure)
+
+Deep in the forest there is an unassuming chest that contains the souls of anyone silly enough to open it.
+
+![Day 21](day-21.jpg)
+
+Day 22 (Ghost)
+
+Sometimes the ghosts didnt wait untill dark to come out.
+
+![Day 22](day-22.jpg)
+
+
+
+
 
 
