@@ -135,6 +135,20 @@ Sometimes the ghosts didnt wait untill dark to come out.
 
 ![Day 22](day-22.jpg)
 
+Day 23 (Ancient)
+
+Nobody knows who put them there, but they have been there as long as anyone can remember.
+
+![Day 23](day-23.jpg)
+
+Day 24 (Dizzy)
+
+TOOT!
+
+![Day 24](day-24.jpg)
+
+
+
 
 
 
