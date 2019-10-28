@@ -158,3 +158,9 @@ When landed Dorrit made a sweet preserve out of the local plants to sustain them
 Who opened that door?
 
 ![Day 26](day-26.jpg)
+
+## Day 27 (Coat)
+
+The Wizards cloak started moving all by itself. They had no idea where it got the scythe from but they were not going to ask as with went to go out the door.
+
+![Day 27](day-27.jpg)
