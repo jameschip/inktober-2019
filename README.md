@@ -153,7 +153,7 @@ When landed Dorrit made a sweet preserve out of the local plants to sustain them
 
 ![Day 25](day-25.jpg)
 
-## Day 26
+## Day 26 (Dark)
 
 Who opened that door?
 
