@@ -164,3 +164,9 @@ Who opened that door?
 The Wizards cloak started moving all by itself. They had no idea where it got the scythe from but they were not going to ask as with went to go out the door.
 
 ![Day 27](day-27.jpg)
+
+## Day 28 (Ride)
+
+Cowboy riding horse?
+
+![Day28](day-28.jpg)
