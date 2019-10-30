@@ -169,4 +169,16 @@ The Wizards cloak started moving all by itself. They had no idea where it got th
 
 Cowboy riding horse?
 
-![Day28](day-28.jpg)
+![Day 28](day-28.jpg)
+
+## Day 29 (Injured)
+
+Dorrit was injured during the encounter with a wild Afnod.
+
+![Day 29](day-29.jpg)
+
+## Day 30 (Catch)
+
+Cricket ball.
+
+![Day 30](day-30.jpg)
